@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(131, 169, 192);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-color: rgb(189, 225, 233);
+    text-align: center;
+    color: rgb(25, 8, 66);
+    border-radius: 12px;
+    padding: 5px;
+}
+table{
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 6px;
+}
+th,td{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    background-color: rgb(131, 202, 173);
+    margin: 0px;
+    padding: 5px;
+}
+a{ 
+    color: rgb(38, 97, 13);
+}
+h2{
+    background-color: rgb(219, 39, 162);
+    color: rgb(0, 0, 0);
+    width: 10%;
+}
+footer{
+    color: rgb(97, 104, 110);
+}
